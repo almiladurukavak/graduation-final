@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@stdlib/iter-datespace": "^0.0.7",
+    "express": "^4.18.2",
+    "xorshift": "^1.2.0"
+  },
+  "name": "graduationproject-main",
+  "description": "https://openprocessing.org/sketch/1676127",
+  "version": "1.0.0",
+  "main": "mySketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
